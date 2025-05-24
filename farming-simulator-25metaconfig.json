@@ -1,0 +1,17 @@
+[
+    {
+        "ConfigFile": "dedicatedServer.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "game.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "FarmingSimulator2025.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    }
+]

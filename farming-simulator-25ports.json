@@ -1,0 +1,23 @@
+[
+    {
+        "Protocol": "Both",
+        "Port": "8080",
+        "Name": "Webserver",
+        "Description": "Port used for main game traffic",
+        "Ref": "Webserver"
+    },
+    {
+        "Protocol": "Both",
+        "Port": "10823",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "5000",
+        "Name": "XBox Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "XBoxPort"
+    }
+]
